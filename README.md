@@ -1,1 +1,1 @@
-# .github
+@microsoft-github-policy-service agree company="Microsoft"@microsoft-github-policy-service agreealbertanastasia:main@microsoft-github-policy-service agree [company="{your company}"].github/dependabot.yml# .github
